@@ -1,0 +1,8 @@
+# Need to install python version greater than 3.8 so we can use tiktoken
+python3.10 -m venv coursera-venv
+conda deactivate
+source coursera-venv/bin/activate
+pip install jupyter
+pip install -r requirements.txt
+pip install openai
+jupyter-notebook
