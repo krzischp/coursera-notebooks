@@ -1,0 +1,2 @@
++execute_py_script:
+  sh>: python query_td.py
