@@ -1,0 +1,10 @@
+https://docs.treasuredata.com/display/public/PD/Python+Custom+Scripting+Example
+
+TO ENABLE AND DISABLE APPLE Gatekeeper:
+sudo spctl --master-disable
+sudo spctl --master-enable
+
+td wf push pierre-simple-example
+
+
+<!-- 401 error for now. Wait for Diana to give us permission. -->
